@@ -1,4 +1,4 @@
-
+![](../images/03-ioc_di_aop_thought.png)
 
 **IOC**
 Inversion of Control，控制反转，强调的是原来在程序创建Bean的权利反转给第三方
