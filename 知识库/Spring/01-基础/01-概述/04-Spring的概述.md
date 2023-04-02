@@ -12,7 +12,7 @@ Spring是一个开源轻量级Java开发应用框架，可以简化企业级应�
 - SpringCloud打包了微服务众多解决方案，应对互联网项目更加easy
 
 **SpringFramework技术栈**
-<img src="../images/04-SpringFramework.jpeg"/>
+<img src="../images/04-SpringFramework.jpeg" alt="" style="width:67%"/>
 - Web：Web开发
 - AOP：面向切面编程
 - Aspects：AOP思想实现
