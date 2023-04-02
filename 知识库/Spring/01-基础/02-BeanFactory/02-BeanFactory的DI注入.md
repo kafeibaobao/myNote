@@ -28,7 +28,7 @@ public class UserServiceImpl implements UserService {
     <property name="userDao" ref="userDao"></property>
 </bean>
 
-        <!--配置UserDaoImpl-->
+<!--配置UserDaoImpl-->
 <bean id="userDao" class="com.kafe.dao.impl.UserDaoImpl"></bean>
 ```
 **修改测试代码，获得UserService时，setUserService方法执行了注入操作**
